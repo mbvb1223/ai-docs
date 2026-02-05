@@ -54,4 +54,4 @@ final readonly class MyService
 
 ## License
 
-This documentation is licensed under [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
+This documentation is licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).

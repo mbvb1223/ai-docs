@@ -128,4 +128,4 @@ The repository includes comprehensive examples for different storage backends:
 
 ---
 
-**License**: This work is licensed under a [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) license.
+**License**: This work is licensed under a [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.

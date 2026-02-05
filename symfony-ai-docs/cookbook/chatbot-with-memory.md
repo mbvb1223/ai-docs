@@ -146,4 +146,4 @@ ai:
 
 ---
 
-**License**: This work, including code samples, is licensed under [Creative Commons BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+**License**: This work, including code samples, is licensed under [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
